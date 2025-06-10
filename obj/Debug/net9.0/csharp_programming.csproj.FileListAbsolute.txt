@@ -1,0 +1,14 @@
+/Users/tsl002/Desktop/csharp_programming/bin/Debug/net9.0/csharp_programming
+/Users/tsl002/Desktop/csharp_programming/bin/Debug/net9.0/csharp_programming.deps.json
+/Users/tsl002/Desktop/csharp_programming/bin/Debug/net9.0/csharp_programming.runtimeconfig.json
+/Users/tsl002/Desktop/csharp_programming/bin/Debug/net9.0/csharp_programming.dll
+/Users/tsl002/Desktop/csharp_programming/bin/Debug/net9.0/csharp_programming.pdb
+/Users/tsl002/Desktop/csharp_programming/obj/Debug/net9.0/csharp_programming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tsl002/Desktop/csharp_programming/obj/Debug/net9.0/csharp_programming.AssemblyInfoInputs.cache
+/Users/tsl002/Desktop/csharp_programming/obj/Debug/net9.0/csharp_programming.AssemblyInfo.cs
+/Users/tsl002/Desktop/csharp_programming/obj/Debug/net9.0/csharp_programming.csproj.CoreCompileInputs.cache
+/Users/tsl002/Desktop/csharp_programming/obj/Debug/net9.0/csharp_programming.dll
+/Users/tsl002/Desktop/csharp_programming/obj/Debug/net9.0/refint/csharp_programming.dll
+/Users/tsl002/Desktop/csharp_programming/obj/Debug/net9.0/csharp_programming.pdb
+/Users/tsl002/Desktop/csharp_programming/obj/Debug/net9.0/csharp_programming.genruntimeconfig.cache
+/Users/tsl002/Desktop/csharp_programming/obj/Debug/net9.0/ref/csharp_programming.dll
